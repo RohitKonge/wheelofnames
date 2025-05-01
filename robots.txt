@@ -1,9 +1,0 @@
-# Allow all crawlers
-User-agent: *
-Allow: /
-
-# Sitemap location
-Sitemap: https://wheelofnames.world/sitemap.xml
-
-# Optimize crawl rate
-Crawl-delay: 1
